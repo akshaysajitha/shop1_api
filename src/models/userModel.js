@@ -13,6 +13,7 @@ const User = {
         return rows[0];
     },
     
+    
 };
 
 module.exports = User;
